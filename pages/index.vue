@@ -2,7 +2,7 @@
   <div class="px-6 lg:px-24 my-[112px] w-full">
     <Header />
     <div class="grid gap-12 lg:gap-24 grid-cols-1 lg:grid-cols-2">
-      <li v-for="post of posts" :key="post.slug" class="list-none">
+      <li v-for="post of posts.slice().reverse()" :key="post.slug" class="list-none">
         <div class="relative">
           <div class="absolute z-10 left-2 bottom-2 border border-dark bg-light w-16 h-16 rounded-full">
             <div class="absolute left-1/2 top-1.5 -translate-x-1/2 text-center leading-3 text-[22px]"><span class="text-lg">№.</span><br />{{ post.number }}</div>
