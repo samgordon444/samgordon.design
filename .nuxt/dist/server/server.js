@@ -2679,10 +2679,6 @@ async function createApp(ssrContext, config = {}) {
         "rel": "icon",
         "type": "image\u002Fx-icon",
         "href": "\u002Ffavicon.png"
-      }, {
-        "rel": "stylesheet",
-        "type": "text\u002Fcss",
-        "href": "slick\u002Fslick.css"
       }],
       "script": [],
       "style": []

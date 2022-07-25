@@ -51,15 +51,14 @@ installComponents(component, {Header: __webpack_require__(29).default})
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/index.vue?vue&type=template&id=e0a52a2c&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"px-6 lg:px-24 my-[112px] w-full"},[_c('Header'),_vm._ssrNode(" <div class=\"grid gap-12 lg:gap-24 grid-cols-1 lg:grid-cols-2\">\n    TESTING\n  </div> <div class=\"pt-24\">© Sam Gordon</div>")],2)}
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/index.vue?vue&type=template&id=57e44073&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"px-6 lg:px-24 my-[112px] w-full"},[_c('Header'),_vm._ssrNode(" <div class=\"grid gap-12 lg:gap-24 grid-cols-1 lg:grid-cols-2\">"+(_vm._ssrList((_vm.posts),function(post){return ("<li class=\"list-none\"><div class=\"relative\"><div class=\"absolute z-10 left-2 bottom-2 border border-dark bg-light w-16 h-16 rounded-full\"><div class=\"absolute left-1/2 top-1.5 -translate-x-1/2 text-center leading-3 text-[22px]\"><span class=\"text-lg\">№.</span><br>"+_vm._ssrEscape(_vm._s(post.number))+"</div></div> <div class=\"relative pb-[100%] w-full bg-[#ffffff]\"><img"+(_vm._ssrAttr("src",post.image))+" class=\"absolute top-1/2 -translate-y-1/2 w-full\"></div></div></li>")}))+"</div> <div class=\"pt-24\">© Sam Gordon</div>")],2)}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./pages/index.vue?vue&type=template&id=e0a52a2c&
+// CONCATENATED MODULE: ./pages/index.vue?vue&type=template&id=57e44073&
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/index.vue?vue&type=script&lang=js&
-//
 //
 //
 //
