@@ -3,12 +3,14 @@
     "name": "index",
     "path": "/",
     "component": "/Users/samgordon/Documents/GitHub/samgordon.design/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_a100cebc"
   },
   {
     "name": "slug",
     "path": "/:slug",
     "component": "/Users/samgordon/Documents/GitHub/samgordon.design/pages/_slug.vue",
-    "chunkName": "pages/_slug"
+    "chunkName": "pages/_slug",
+    "_name": "_a46e114c"
   }
 ]
