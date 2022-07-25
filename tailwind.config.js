@@ -8,8 +8,11 @@ module.exports = {
   ],
   theme: {
     colors: {
+      dark: '#1C1817',
+      light: '#FAFAF9',
     },
     fontFamily: {
+      brand: ['PPM']
     },
     fontWeight: {
     },

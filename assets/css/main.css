@@ -4,5 +4,10 @@
 @tailwind utilities;
 
 body {
-  background: #FFFFFF;
+  @apply bg-light text-dark;
+  @apply font-brand;
+}
+
+ul li {
+  @apply inline;
 }

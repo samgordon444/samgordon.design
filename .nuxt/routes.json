@@ -1,0 +1,14 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/samgordon/Documents/GitHub/samgordon.design/pages/index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "slug",
+    "path": "/:slug",
+    "component": "/Users/samgordon/Documents/GitHub/samgordon.design/pages/_slug.vue",
+    "chunkName": "pages/_slug"
+  }
+]

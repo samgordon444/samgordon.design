@@ -2,3 +2,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+@font-face {
+  font-family: "PPM";
+  font-style: normal;
+  font-weight: 400;
+  src: url("~assets/PPM.woff2") format("woff2");
+}
