@@ -22,10 +22,6 @@ export default {
       { rel: 'manifest', href: '/site.webmanifest' }
     ],
     script: [
-      { src: "https://www.googletagmanager.com/gtag/js?id=UA-91320901-1",
-        async: true
-      },
-      { src: "GA4.js" }
     ],
   },
 
