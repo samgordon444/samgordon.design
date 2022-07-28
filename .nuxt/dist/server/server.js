@@ -2678,7 +2678,7 @@ async function createApp(ssrContext, config = {}) {
       "link": [{
         "rel": "icon",
         "type": "image\u002Fx-icon",
-        "href": "\u002Ffavicon.png"
+        "href": "\u002Ffavicon.ico"
       }],
       "script": [],
       "style": []
