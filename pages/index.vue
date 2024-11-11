@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div class="px-6 lg:px-24 my-[112px] w-full">
     <Header />
     <div class="grid gap-12 lg:gap-24 grid-cols-1 lg:grid-cols-2">
@@ -35,4 +35,4 @@ export default {
     };
   },
 };
-</script>
+</script> -->
